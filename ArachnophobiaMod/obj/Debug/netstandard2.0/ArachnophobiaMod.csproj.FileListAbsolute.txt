@@ -1,0 +1,7 @@
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.csproj.AssemblyReference.cache
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\MyPluginInfo.cs
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.AssemblyInfoInputs.cache
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.AssemblyInfo.cs
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.csproj.CoreCompileInputs.cache
+G:\Github\AleAndTaleTavern\ArachnophobiaMod\obj\Debug\netstandard2.0\ArachnophobiaMod.sourcelink.json
